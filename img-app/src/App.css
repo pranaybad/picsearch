@@ -1,0 +1,16 @@
+.contain {
+    columns: 3;
+    column-gap: 5px;
+    width: 80%;
+    margin: 2px auto;
+}
+
+.contain img {
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+}
+
+.App1 {
+    margin: 5px 250px;
+}
